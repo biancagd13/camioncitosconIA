@@ -1,0 +1,4 @@
+correo_original,clasificacion,prioridad,datos_extraidos,estado,fecha_creacion,timestamp_iso
+"Asunto: Aviso de retraso en ruta
+
+Estimados, la unidad XYZ-9876 se encuentra detenida sobre la autopista debido a un bloqueo vehicular. Estimamos un retraso aproximado de 2 horas sobre el horario permitido de llegada a la planta.",retraso,media,{'origen': 'GUI_Manual'},nuevo,2026-10-07 14:34:06.595000,2026-10-07T14:34:06.595072
